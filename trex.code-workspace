@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../Test Code"
+		},
+		{
+			"path": "../../../Downloads/Project-Template-C9--main"
+		},
+		{
+			"path": "../../Aadi's Solo Code"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Project-Template-C9--main"
+	}
+}
